@@ -1,2 +1,2 @@
-# -
-省机器人竞赛
+# README
+This is a precious historical memory.
